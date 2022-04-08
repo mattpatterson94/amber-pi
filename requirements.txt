@@ -1,0 +1,3 @@
+waveshare-epaper
+python-dotenv
+requests
